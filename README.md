@@ -1,4 +1,4 @@
 USACO
 =====
 
-algorithms from USACO
+ programming questions solutions
